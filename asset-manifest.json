@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/crown-clothing/static/css/main.677c6075.css",
+    "main.js": "/github.io/crown-clothing/static/js/main.52f88fcf.js",
+    "static/js/453.266df68d.chunk.js": "/github.io/crown-clothing/static/js/453.266df68d.chunk.js",
+    "index.html": "/github.io/crown-clothing/index.html",
+    "main.677c6075.css.map": "/github.io/crown-clothing/static/css/main.677c6075.css.map",
+    "main.52f88fcf.js.map": "/github.io/crown-clothing/static/js/main.52f88fcf.js.map",
+    "453.266df68d.chunk.js.map": "/github.io/crown-clothing/static/js/453.266df68d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.677c6075.css",
+    "static/js/main.52f88fcf.js"
+  ]
+}

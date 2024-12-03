@@ -11,7 +11,7 @@ const Navigation = () => {
                 <Link className="logo-container" to='/crown-clothing'> <div > <CrownLogo className="logo" /></div> </Link>
                
                 <div className="nav-links-container">
-                    <Link className='nav-link' to='/crown-clothing/signIn'>
+                    <Link className='nav-link' to='/crown-clothing/auth'>
                         SIGNIN
                     </Link>
                     <Link className='nav-link' to='/crown-clothing/shop'>

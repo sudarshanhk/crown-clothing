@@ -5,7 +5,8 @@ import {
     signInWithRedirect,
     signInWithPopup,
     GoogleAuthProvider,
-    createUserWithEmailAndPassword
+    createUserWithEmailAndPassword,
+    signInWithEmailAndPassword
  
     
 } from 'firebase/auth';
@@ -67,4 +68,11 @@ export const creteAutUserWithEmailAndPassword = (email, password) => {
    
    
    return createUserWithEmailAndPassword(auth, email, password)
+}
+
+export const signInAutUserWithEmailAndPassword = (email, password) => {
+    if (!email || !password) return
+
+
+    return signInWithEmailAndPassword(auth, email, password)
 }
